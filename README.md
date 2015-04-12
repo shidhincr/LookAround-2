@@ -8,4 +8,6 @@ Tools of Trade:
 
 - AngularJS 2
 - Material Design ( if possible )
+- Gulp for building
+- Traceur for ES6 transpiling
 
