@@ -1,2 +1,11 @@
 # LookAround-2
-AngularJS 2 learning play ground application. The project uses material design, Angular2 and will be building by TDD apporach
+
+LookAround-2 is a demo project I am building just for learning AngularJS 2. Earlier I built LookAround application for learning AngularJS. LookAround-2 will have the same features of LookAround project, except this time I am going to use material design for the UI. 
+
+We are going to build each components in TDD approach. 
+
+Tools of Trade:
+
+- AngularJS 2
+- Material Design ( if possible )
+
