@@ -7,7 +7,8 @@ We are going to build each components in TDD approach.
 Tools of Trade:
 
 - AngularJS 2
+- TypeScript
 - Material Design ( if possible )
-- Gulp for building
 - Traceur for ES6 transpiling
+- System.js for loading modules
 
