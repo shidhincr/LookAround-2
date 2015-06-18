@@ -1,0 +1,30 @@
+{
+  "name": "lookaround2",
+  "version": "1.0.0",
+  "description": "Angular2 demo application for searching places using Google maps API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shidhincr/LookAround-2.git"
+  },
+  "keywords": [
+    "LookAround",
+    "Angular2",
+    "Google",
+    "Maps"
+  ],
+  "author": "Shidhin C R",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shidhincr/LookAround-2/issues"
+  },
+  "homepage": "https://github.com/shidhincr/LookAround-2#readme",
+  "dependencies": {
+    "es6-module-loader": "^0.16.6",
+    "systemjs": "^0.16.11",
+    "traceur": "0.0.89"
+  }
+}
