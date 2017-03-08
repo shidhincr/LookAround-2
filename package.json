@@ -23,8 +23,8 @@
   },
   "homepage": "https://github.com/shidhincr/LookAround-2#readme",
   "dependencies": {
-    "es6-module-loader": "^0.16.6",
-    "systemjs": "^0.16.11",
-    "traceur": "0.0.89"
+    "es6-module-loader": "^0.17.11",
+    "systemjs": "^0.20.9",
+    "traceur": "0.0.111"
   }
 }
